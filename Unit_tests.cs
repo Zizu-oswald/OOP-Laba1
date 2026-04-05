@@ -44,4 +44,28 @@ public static class Unit_tests
         Console.WriteLine($"new ComplexNumber(3, 5) = {new ComplexNumber(3, 5)}");
         Console.WriteLine($"new ComplexNumber(3, -5) = {new ComplexNumber(3, -5)}");
     }
+
+    public static void Task2()
+    {
+        Console.WriteLine("News service");
+
+        NewsPublisher publisher = new NewsPublisher();
+
+        EmailSubscriber email1 = new EmailSubscriber("yatypoy@gmail.com");
+        EmailSubscriber email2 = new EmailSubscriber("bob@yandex.com");
+        SmsSubscriber sms = new SmsSubscriber("+7-880-555-35-35");
+        PushSubscriber push = new PushSubscriber("Nokia-3310");
+
+        publisher.AddObserver(email1);
+        publisher.AddObserver(email2);
+        publisher.AddObserver(sms);
+        publisher.AddObserver(push);
+
+        publisher.PublishNews("Release Ubuntu 26.04 LTS");
+
+        Console.WriteLine("");
+        publisher.RemoveObserver(email2);
+
+        publisher.PublishNews("Opened registration on conferention");
+    }
 }
