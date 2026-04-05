@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxKLAm3ZO0k=",
+  "success": true,
+  "projectFilePath": "/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/OOP-Laba1.csproj",
+  "expectedPackageFiles": [
+    "/home/ivan/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
