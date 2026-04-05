@@ -1,0 +1,15 @@
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/bin/Debug/net10.0/OOP-Laba1
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/bin/Debug/net10.0/OOP-Laba1.deps.json
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/bin/Debug/net10.0/OOP-Laba1.runtimeconfig.json
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/bin/Debug/net10.0/OOP-Laba1.dll
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/bin/Debug/net10.0/OOP-Laba1.pdb
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.AssemblyInfoInputs.cache
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.AssemblyInfo.cs
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.csproj.CoreCompileInputs.cache
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.sourcelink.json
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.dll
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/refint/OOP-Laba1.dll
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.pdb
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/OOP-Laba1.genruntimeconfig.cache
+/home/ivan/Documents/STNKN/Dotnet/OOP-Laba1/obj/Debug/net10.0/ref/OOP-Laba1.dll
