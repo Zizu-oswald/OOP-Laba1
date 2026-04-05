@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+class Program
+{
+    static void Main(string[] args)
+    {
+        ComplexNumber com = new ComplexNumber(1, 1);
+        Console.WriteLine(com.ToString());
+
+    }
+}
